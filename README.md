@@ -75,5 +75,3 @@ npm run build
 ## Author
 
 **Ayushi Gupta**
-
----
