@@ -42,6 +42,7 @@ Gemini
    ↓
 Answer + Citations
 ````
+---
 
 ### Getting Started
 
