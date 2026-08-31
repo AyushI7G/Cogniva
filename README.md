@@ -63,6 +63,3 @@ GEMINI_API_KEY=your_api_key
 **Built with React, TypeScript, Express.js and Gemini.**
 
 ```
-
-**That's enough.** It tells a recruiter what Cogniva is, what you built, the important engineering features, the stack, and how to run it—without making them read 500 lines.
-```
