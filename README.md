@@ -61,5 +61,3 @@ GEMINI_API_KEY=your_api_key
 ---
 
 **Built with React, TypeScript, Express.js and Gemini.**
-
-```
