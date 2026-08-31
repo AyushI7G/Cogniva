@@ -71,3 +71,9 @@ npm run build
 ---
 
 **Built with React, TypeScript, Express.js and Gemini.**
+
+## Author
+
+**Ayushi Gupta**
+
+---
