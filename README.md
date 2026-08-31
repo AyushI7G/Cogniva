@@ -21,6 +21,8 @@ Cogniva is an AI-powered enterprise chatbot that lets users ask questions about 
 **AI:** Gemini API, Embeddings, RAG  
 **Search:** Cosine Similarity, BM25
 
+---
+
 ### Architecture
 
 ```text
