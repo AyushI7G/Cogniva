@@ -63,6 +63,11 @@ Create a `.env` file:
 GEMINI_API_KEY=your_api_key
 ```
 
+Build for production:
+
+```bash
+npm run build
+```
 ---
 
 **Built with React, TypeScript, Express.js and Gemini.**
