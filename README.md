@@ -1,5 +1,5 @@
 # Cogniva
-
+---
 ### Enterprise RAG Knowledge Assistant
 
 Cogniva is an AI-powered enterprise chatbot that lets users ask questions about internal company documents and receive grounded answers with source citations.
@@ -13,6 +13,8 @@ Cogniva is an AI-powered enterprise chatbot that lets users ask questions about 
 - Conversational intent routing
 - Gemini model fallback
 - RAG pipeline telemetry and debugging tools
+
+---
 
 ### Tech Stack
 
